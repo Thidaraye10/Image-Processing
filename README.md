@@ -17,3 +17,7 @@ More to-dos include but are not limited to:
 - Batch file inclusion for analyzing whole folders of ND2 images 
 - Re-configuration of code to be object oriented 
 - Potential for further analysis steps using NumPy
+
+Useful and important Resources 
+- (https://py.imagej.net/en/latest/)
+- (https://imagej.net/ij/developer/api/ij/module-summary.html)
