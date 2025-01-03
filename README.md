@@ -19,5 +19,7 @@ More to-dos include but are not limited to:
 - Potential for further analysis steps using NumPy
 
 Useful and important Resources 
-- (https://py.imagej.net/en/latest/)
-- (https://imagej.net/ij/developer/api/ij/module-summary.html)
+- https://py.imagej.net/en/latest/
+- https://imagej.net/ij/developer/api/ij/module-summary.html
+- https://imagej.net/imaging/visualization
+- https://forum.image.sc/
